@@ -1,7 +1,5 @@
 # 🔋 Predicting Remaining Useful Life (RUL) of Batteries
 
-![Battery Image](https://img.icons8.com/fluency/512/battery.png)
-
 ## 📌 Overview
 This project focuses on predicting the **Remaining Useful Life (RUL)** of batteries using machine learning techniques.  
 By analyzing battery cycle data and health parameters, we can forecast how many cycles a battery will last before reaching its end-of-life — a crucial task for **predictive maintenance** in EVs, IoT devices, and energy storage systems.
