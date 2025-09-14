@@ -42,16 +42,24 @@ By analyzing battery cycle data and health parameters, we can forecast how many 
 
 ---
 
-## 📊 Results & Visualizations
+## 📊 Results & Visualizations  
 
-### 🔹 Distribution of Battery Parameters(Voltage)
-![Voltage Distribution](https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/voltage_distribution.png)
-
-### 🔹 Confusion Matrix (Logistic Regression)
-![Confusion Matrix](https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/logistic_cm.png)
-
-### 🔹 Model Accuracy Comparison
-![Model Accuracy](https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/model_comparison.png)
+<table>
+  <tr>
+    <td align="center">
+      <b>Distribution of Battery Parameters (Voltage)</b><br>
+      <img src="https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/voltage_distribution.png" width="250">
+    </td>
+    <td align="center">
+      <b>Confusion Matrix (Logistic Regression)</b><br>
+      <img src="https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/logistic_cm.png" width="250">
+    </td>
+    <td align="center">
+      <b>Model Accuracy Comparison</b><br>
+      <img src="https://github.com/Shubham230305/Predicting-Remaining-Useful-Life-of-Battery/blob/main/Images/model_comparison.png" width="250">
+    </td>
+  </tr>
+</table>
 
 ---
 
